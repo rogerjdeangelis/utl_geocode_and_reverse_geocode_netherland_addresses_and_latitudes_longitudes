@@ -1,7 +1,18 @@
 # utl_geocode_and_reverse_geocode_netherland_addresses_and_latitudes_longitudes
 Geocode and reverse geocode netherland addresses and latitudes longitudes.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
     Geocode and reverse geocode netherland addresses and latitudes longitudes
-
+    
+    Free Geocoding                                                                     
+                                                                                   
+    google                                                                             
+    https://developers.google.com/maps/documentation/geocoding/intro                   
+                                                                                   
+    Texas A@M                                                                          
+    http://geoservices.tamu.edu/Services/Geocode/BatchProcess/OverviewHowData.aspx     
+                                                                                   
+    UCLA Web Geocoder                                                                 
+    https://gis.ucla.edu/geocoder                                                      
+                                                                                   
     github
     https://tinyurl.com/yd9c7l94
     https://github.com/rogerjdeangelis/utl_geocode_and_reverse_geocode_netherland_addresses_and_latitudes_longitudes
